@@ -1,2 +1,1 @@
-# World-GDP-Prediction-World-Economics-Prediction
- The goal is to develop a predictive model that can estimate Gross Domestic Product (GDP) per capita based on relevant features.
+This GitHub repository hosts a comprehensive system for analyzing and predicting Gross Domestic Product (GDP) per capita across countries worldwide. It features a user-friendly dashboard for exploring GDP-related data and a predictive system that estimates a country's GDP based on specific features.
